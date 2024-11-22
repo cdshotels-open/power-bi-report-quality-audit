@@ -1,4 +1,4 @@
-# Spiegazione Dashboard per Controllo Qualità Strutture
+# Spiegazione Dashboard per Controllo di Qualità Strutture
 
 La dashboard è progettata per fornire una visione d'insieme delle prestazioni in termini di qualità delle strutture, basata sui punteggi di valutazione dei diversi servizi nelle zone. Ci sono 10 zone in tutto, e ad ogni zona appartengono dei servizi fino ad ammontare ad un totale di 46.
 
